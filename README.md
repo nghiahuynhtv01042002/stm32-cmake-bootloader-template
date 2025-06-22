@@ -140,8 +140,6 @@ STM32F411 Flash Memory (512KB)
 - 🚧 **OTA Update System** - Coming soon
 - 🚧 **Secure Boot Implementation** - Coming soon
 
-
-
 ## 👨‍💻 Author
 
 **Nghia Huynh**
