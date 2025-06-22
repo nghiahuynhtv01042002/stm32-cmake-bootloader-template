@@ -34,6 +34,7 @@ set(COMMON_FLAGS
     -fdata-sections
     -fno-unroll-loops
     -fomit-frame-pointer
+    -flto
 )
 set(LINKER_OPTIMIZE
     -Wl,--gc-sections
